@@ -19,6 +19,6 @@ Route::get('/blog', function() {
    return view('blog');
 });
 
-Router::get('/test', fuctoin() {
+Router::get('/test', fuction() {
 	return view('test');
 });
