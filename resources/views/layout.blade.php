@@ -78,6 +78,9 @@ http://www.clayszlosek.com/<!doctype html>
                     @endauth
                 </div>
             @endif
+		<div>
+			@yield('content')
+		</div>
 
             <div class="content">
                 <div class="title m-b-md">
