@@ -12,7 +12,7 @@ http://www.clayszlosek.com/<!doctype html>
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #ffa;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
