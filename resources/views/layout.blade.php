@@ -20,6 +20,11 @@
                 margin: 10;
             }
 
+            .top-card{
+              background-color: #e8fff0;
+              height: 30%;
+            }
+
             .full-height {
                 height: 100vh;
             }

@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-<div class="container-fluid" style="background-color: #e8fff0">
+<div class="container-fluid">
 hasdjfshjfasfhslka
 </div>
 <div class="flex-center position-ref full-height">
