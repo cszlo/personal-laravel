@@ -66,7 +66,8 @@
             }
 
             .links > a {
-                color: #636b6f;
+                /* color: #636b6f; */
+                color: #71d2d9;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
