@@ -22,7 +22,7 @@
 
             .top-card{
               background-color: white;
-              background-image: url("s3://clayszlosek.com/orlando_3.jpg");
+              background-image: url("https://s3.amazonaws.com/clayszlosek.com/orlando_3.jpg");
               height: 300px;
             }
 
