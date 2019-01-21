@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container-fluid top-card">
-hasdjfshjfasfhslka
+
 </div>
-<div class="flex-center position-ref full-height">
+<div class="position-ref full-height">
     <div class="content">
         <div class="title m-b-md">
         </div>

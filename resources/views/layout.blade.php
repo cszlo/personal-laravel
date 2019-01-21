@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #c8fff0;
+                background-color: grey;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -21,7 +21,7 @@
             }
 
             .top-card{
-              background-color: #e8fff0;
+              background-color: white;
               background-image: url("s3://clayszlosek.com/orlando_3.jpg");
               height: 300px;
             }
