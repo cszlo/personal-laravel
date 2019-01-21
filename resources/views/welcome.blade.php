@@ -11,7 +11,7 @@
 
         <!-- Styles -->
         <style>
-          <link rel="stylesheet" type="text/css" href="./sass/app.scss" />
+          <link rel="stylesheet" type="text/css" href="/Styles/styles.css" />
             /* html, body {
                 background-color: #ffa;
                 color: #636b6f;
