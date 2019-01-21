@@ -6,7 +6,7 @@
 </div> -->
 <div class="position-ref top-links">
     <!-- <div class="content"> -->
-        <div style="float: left;">
+        <div class="link" style="float: left;">
           <a href="https://www.linkedin.com/in/clay-szlosek">LinkedIn</a>
         </div>
         <div class="links">
