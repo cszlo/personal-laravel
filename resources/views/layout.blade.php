@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #ffffaa2e;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -64,6 +64,9 @@
         </style>
     </head>
     <body>
+	<div>
+		@yield('content')
+	</div>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
@@ -78,9 +81,6 @@
                     @endauth
                 </div>
             @endif
-		<div>
-			@yield('content')
-		</div>
 
             <div class="content">
                 <div class="title m-b-md">

@@ -89,6 +89,7 @@
                     <a href="https://www.github.com/cszlo">Github</a>
                     <a href="https://github.com/laravel/laravel">Resume</a>
 		    <a href="/blog">Blog</a>
+		<a href="/test">Test</a>
                 </div>
             </div>
         </div>
