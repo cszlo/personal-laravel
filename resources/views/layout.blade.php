@@ -12,7 +12,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #c8fff0;
+                /* background-color: #c8fff0; */
+                background-image: url("s3://clayszlosek.com/orlando_3.jpg");
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
