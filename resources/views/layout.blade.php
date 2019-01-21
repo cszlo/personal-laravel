@@ -12,12 +12,12 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: red;
+                background-color: #c8fff0;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
-                margin: 0;
+                margin: 10;
             }
 
             .full-height {
@@ -64,7 +64,6 @@
         </style>
     </head>
     <body>
-
 		@yield('content')
 
         <!-- <div class="flex-center position-ref full-height">
