@@ -4,7 +4,7 @@
 <div class="container-fluid top-card">
 
 </div>
-<div class="position-ref full-height">
+<div class="position-ref top-links">
     <div class="content">
         <div class="title m-b-md">
         </div>

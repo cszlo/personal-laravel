@@ -26,6 +26,10 @@
               height: 400px;
             }
 
+            .top-links{
+              height: 250px;
+            }
+
             .about-me{
               height: 700px;
               background-color: white;
