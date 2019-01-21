@@ -11,7 +11,8 @@
 
         <!-- Styles -->
         <style>
-            html, body {
+          <link rel="stylesheet" type="text/css" href="./sass/app.scss" />
+            /* html, body {
                 background-color: #ffa;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
@@ -60,13 +61,12 @@
 
             .m-b-md {
                 margin-bottom: 30px;
-            }
+            } */
         </style>
     </head>
     <body>
-      @section('content')
-        Welcome
-      @endsection
+      @yield('content')
+
 
         <!-- <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
