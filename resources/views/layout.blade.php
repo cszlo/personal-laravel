@@ -29,7 +29,8 @@
 
             .top-links{
               text-align: right;
-              margin: 25px;
+              margin-right: 25px;
+              margin-left: 25px;
             }
 
             .full-height {

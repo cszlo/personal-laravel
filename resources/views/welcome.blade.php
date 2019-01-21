@@ -15,4 +15,12 @@
       <a href="/blog">Blog</a>
   </div>
 </div>
+<div>
+  <div class="full-height" style="background-color: #0a0000;">
+
+  </div>
+  <div class="full-height"  style="background-color: #000e00;">
+
+  </div>
+</div>
 @endsection
