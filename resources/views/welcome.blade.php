@@ -17,7 +17,7 @@
 </div>
 <div>
   <div class="full-height sidebar" style="background-color: #0a0000;">
-sdf
+sdfsdfffffffffffffffffffffffffffffffffff
   </div>
   <div class="full-height"  style="background-color: #000e00;">
 

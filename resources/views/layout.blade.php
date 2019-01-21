@@ -34,6 +34,7 @@
             }
 
             .top-links{
+              z-index: 5;
               text-align: right;
               margin-right: 25px;
               margin-left: 25px;
