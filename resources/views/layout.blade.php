@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Clay Szlosek
+                    Layout
                 </div>
 
                 <div class="links">

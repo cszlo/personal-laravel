@@ -2,6 +2,6 @@
 
 @section('content')
 <div>
-	test
+	Blog
 </div>
 @endsection
