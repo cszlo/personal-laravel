@@ -27,7 +27,7 @@
             }
 
             .top-links{
-              height: 250px;
+              margin: 25px;
             }
 
             .about-me{
