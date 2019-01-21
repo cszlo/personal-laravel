@@ -31,12 +31,6 @@
               margin: 25px;
             }
 
-            .about-me{
-              height: 700px;
-              background-color: white;
-              box-shadow: 5px -5px 5px grey;
-            }
-
             .full-height {
                 height: 100vh;
             }

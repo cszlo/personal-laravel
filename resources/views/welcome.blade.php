@@ -14,7 +14,4 @@
         </div>
     </div>
 </div>
-<div class="about-me">
-
-</div>
 @endsection
