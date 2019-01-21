@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #b1dbff;
+                background-color: #d4d4d4;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -33,6 +33,7 @@
             .about-me{
               height: 700px;
               background-color: white;
+              box-shadow: 5px 5px 5px grey;
             }
 
             .full-height {
