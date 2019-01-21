@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-<div class="container-fluid">
+<div class="container-fluid top-card">
 hasdjfshjfasfhslka
 </div>
 <div class="flex-center position-ref full-height">

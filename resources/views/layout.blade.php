@@ -22,7 +22,8 @@
 
             .top-card{
               background-color: #e8fff0;
-              height: 30%;
+              background-image: url("s3://clayszlosek.com/orlando_3.jpg");
+              height: 300px;
             }
 
             .full-height {
