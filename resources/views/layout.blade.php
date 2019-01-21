@@ -26,6 +26,11 @@
               height: 400px;
             }
 
+            .about-me{
+              height: 700px;
+              background-color: white;
+            }
+
             .full-height {
                 height: 100vh;
             }
