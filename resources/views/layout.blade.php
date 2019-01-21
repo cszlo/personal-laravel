@@ -22,7 +22,7 @@
 
             .top-card{
               background-color: white;
-              background-image: url("https://s3.amazonaws.com/clayszlosek.com/orlando_3.jpg");
+              background-image: url("https://s3.amazonaws.com/clayszlosek.com/Lake_Eola_Park_in_Orlando_02.jpg");
               height: 300px;
             }
 
