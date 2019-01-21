@@ -21,10 +21,13 @@
                 margin: 10;
             }
 
-            .top-card{
-              background-color: white;
-              background-image: url("https://s3.amazonaws.com/clayszlosek.com/orlando_3.jpg");
-              height: 400px;
+            .sidebar{
+              width: 50px;
+              background-color: #0d0000
+            }
+
+            .main{
+              background-color: #000e00;
             }
 
             .top-links{
