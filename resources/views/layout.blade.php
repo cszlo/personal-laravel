@@ -21,13 +21,16 @@
                 margin: 10;
             }
 
-            .sidebar{
-              width: 50px;
-              background-color: #0d0000
+            .sidebar {
+                width: 40px;
+                position: fixed;
+                bottom: 0px;
+                left: 40px;
+                color: rgb(168, 178, 209);
             }
 
             .main{
-              background-color: #000e00;
+
             }
 
             .top-links{
