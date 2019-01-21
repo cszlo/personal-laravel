@@ -1,9 +1,9 @@
 @extends('layout')
 
 @section('content')
-<div class="container-fluid top-card">
+<!-- <div class="container-fluid top-card">
 
-</div>
+</div> -->
 <div class="position-ref top-links">
     <div class="content">
         <div class="links">
