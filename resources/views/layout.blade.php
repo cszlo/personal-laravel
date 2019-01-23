@@ -22,7 +22,7 @@
             }
 
             .sidebar {
-                width: 40px;
+                width: 80px;
                 position: fixed;
                 bottom: 0px;
                 left: 40px;
@@ -72,7 +72,7 @@
                 /* color: #636b6f; */
                 color: #71d2d9;
                 padding: 0 25px;
-                font-size: 13px;
+                font-size: 14px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;

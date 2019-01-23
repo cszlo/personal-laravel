@@ -17,7 +17,12 @@
 </div>
 <div>
   <div class="full-height sidebar">
-
+    <div>
+      asdf
+    </div>
+    <div>
+      asdf
+    </div>
   </div>
   <div class="full-height">
 
