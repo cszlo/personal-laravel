@@ -17,7 +17,7 @@
 </div>
 <div>
   <div class="full-height sidebar">
-sdfsdfffffffffffffffffffffffffffffffffff
+
   </div>
   <div class="full-height">
 
