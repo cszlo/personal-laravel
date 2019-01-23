@@ -17,10 +17,10 @@
 </div>
 <div>
   <div class="sidebar">
-    <div>
+    <div class="social">
       <i class="fab fa-linkedin fa-2x"></i>
     </div>
-    <div>
+    <div class="social">
       <i class="fab fa-github fa-2x"></i>
     </div>
   </div>

@@ -33,7 +33,11 @@
             .sidebar > div{
               position: relative;
               bottom: 70px;
-              padding: 5px;
+              padding: 10px;
+            }
+
+            .social{
+              padding: 10px;
             }
 
             .center-sections{
@@ -42,7 +46,7 @@
             }
 
             .top-links{
-              background-color: white;
+              /* background-color: white; */
               z-index: 5;
               text-align: right;
               padding: 25px
