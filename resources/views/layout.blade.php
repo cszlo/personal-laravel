@@ -33,6 +33,7 @@
             .sidebar > div{
               position: relative;
               bottom: 70px;
+              padding: 5px;
             }
 
             .center-sections{
