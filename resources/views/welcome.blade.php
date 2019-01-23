@@ -19,7 +19,7 @@
   <div class="full-height sidebar">
 sdfsdfffffffffffffffffffffffffffffffffff
   </div>
-  <div class="full-height"  style="background-color: #000e00;">
+  <div class="full-height">
 
   </div>
 </div>
