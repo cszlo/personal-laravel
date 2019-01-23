@@ -18,7 +18,7 @@
 <div>
   <div class="sidebar">
     <div>
-      <i class="fab fa-linkedin-in fa-2x"></i>
+      <i class="fab fa-linkedin fa-2x"></i>
     </div>
     <div>
       <i class="fab fa-github fa-2x"></i>
