@@ -43,8 +43,9 @@
               background-color: white;
               z-index: 5;
               text-align: right;
-              margin-right: 25px;
-              margin-left: 25px;
+              padding: 25px
+              /* margin-right: 25px; */
+              /* margin-left: 25px; */
             }
 
             .full-height {
