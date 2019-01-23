@@ -24,11 +24,5 @@
       asdf
     </div>
   </div>
-  <div class="center-sections">
-    test
-  </div>
-  <div class="center-sections">
-    test
-  </div>
 </div>
 @endsection

@@ -40,6 +40,7 @@
             }
 
             .top-links{
+              background-color: white;
               z-index: 5;
               text-align: right;
               margin-right: 25px;
