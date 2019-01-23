@@ -19,9 +19,10 @@
   <div class="sidebar">
     <div>
       <i class="fab fa-linkedin-in"></i>
+      <i class="fab fa-github"></i>
     </div>
     <div>
-      asdf
+
     </div>
   </div>
 </div>
