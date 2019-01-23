@@ -16,9 +16,9 @@
   </div>
 </div>
 <div>
-  <div class="full-height sidebar">
+  <div class="sidebar">
     <div>
-      asdf
+      <i class="fab fa-linkedin-in"></i>
     </div>
     <div>
       asdf
