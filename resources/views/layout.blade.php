@@ -37,7 +37,7 @@
             }
 
             .social{
-              color: #71d2d9;
+              color: #e9ecef;
               padding: 10px;
             }
 
