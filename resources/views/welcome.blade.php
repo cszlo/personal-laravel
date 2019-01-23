@@ -24,8 +24,6 @@
       asdf
     </div>
   </div>
-</div>
-<div class="full-height">
   <div class="center-sections">
     test
   </div>
