@@ -18,13 +18,16 @@
 <div>
   <div class="sidebar">
     <div>
+      <hr width="1" size="500">
+    </div>
+    <div>
       <a href="https://www.linkedin.com/in/clay-szlosek" class="social"><i class="fab fa-linkedin fa-2x"></i></a>
     </div>
     <div  >
       <a href="https://www.github.com/cszlo" class="social"><i class="fab fa-github fa-2x"></i></a>
     </div>
     <div>
-      <a href="/"><i class="fab fa-aws fa-2x" class="social"></i></a>
+      <a href="/" class="social"><i class="fab fa-aws fa-2x"></i></a>
     </div>
   </div>
 </div>
