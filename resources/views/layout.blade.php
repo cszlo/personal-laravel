@@ -34,8 +34,9 @@
               bottom: 70px;
             }
 
-            .main{
-
+            .center-sections{
+              margin-top: 15px;
+              margin-bottom: 15px;
             }
 
             .top-links{
