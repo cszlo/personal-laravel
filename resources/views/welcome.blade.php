@@ -18,7 +18,7 @@
 <div>
   <div class="sidebar">
     <div>
-      <hr width="1" size="500">
+      <hr width="1" size="200">
     </div>
     <div>
       <a href="https://www.linkedin.com/in/clay-szlosek" class="social"><i class="fab fa-linkedin fa-2x"></i></a>
