@@ -29,6 +29,11 @@
                 color: rgb(168, 178, 209);
             }
 
+            .sidebar > div{
+              position: relative;
+              bottom: 70px;
+            }
+
             .main{
 
             }
