@@ -23,6 +23,7 @@
             }
 
             .sidebar {
+                text-align: center;
                 width: 80px;
                 position: fixed;
                 bottom: 0px;
